@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Web app development",
+      "type": "income",
+      "category": "Sale",
+      "price": 14000,
+      "createdAt": "2023-06-12T19:36:44.501Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Food",
+      "price": 14000,
+      "createdAt": "2023-06-12T16:32:44.501Z"
+    },
+    {
+      "id": 3,
+      "description": "Web app development",
+      "type": "income",
+      "category": "Sale",
+      "price": 14000,
+      "createdAt": "2023-06-17T02:11:24.741Z"
+    },
+    {
+      "description": "Mobile App Development",
+      "price": 20000,
+      "category": "Sale",
+      "type": "income",
+      "createdAt": "2023-06-20T01:28:01.592Z",
+      "id": 4
+    },
+    {
+      "description": "Pizza",
+      "price": 20,
+      "category": "Food",
+      "type": "outcome",
+      "createdAt": "2023-06-20T01:37:29.338Z",
+      "id": 5
+    }
+  ]
+}
